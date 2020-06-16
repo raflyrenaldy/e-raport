@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="C:/laragon/www/365fb" vcs="Git" />
+    <mapping directory="C:/laragon/www/apidesktop/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jquery_upload_preview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/assets/js/jquery_upload_preview" vcs="Git" />
+  </component>
+</project>

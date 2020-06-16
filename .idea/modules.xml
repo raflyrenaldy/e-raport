@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/laragon/www/365fb/.idea/365fb.iml" filepath="C:/laragon/www/365fb/.idea/365fb.iml" />
+      <module fileurl="file://C:/laragon/www/apidesktop/api/.idea/api.iml" filepath="C:/laragon/www/apidesktop/api/.idea/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stisla-laravel.iml" filepath="$PROJECT_DIR$/.idea/stisla-laravel.iml" />
+    </modules>
+  </component>
+</project>

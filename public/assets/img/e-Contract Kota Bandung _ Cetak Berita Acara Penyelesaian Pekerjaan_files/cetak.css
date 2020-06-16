@@ -1,0 +1,104 @@
+body, table {
+	margin:0;
+	padding:0;
+	font-family: 'Bookman Old Style';
+	font-size: 12px;
+	color: #444;
+}
+
+@media all
+{
+	.page-break {display:none;}
+}
+
+@media print
+{
+	.page-break {display:block; page-break-before:always; }
+}
+.thinborder {
+	border: thin solid #000;border-width: 1px 1px 1px 1px;
+}
+.thinleftborder {
+	border: thin solid #000;border-width: 1px 1px 1px 0px;
+}
+.thintopborder {
+	border: thin solid #000;border-width: 0px 1px 1px 1px;
+}
+.thintopleftborder {
+	border: thin solid #000;border-width: 0px 1px 1px 0px;
+}
+.thinbottomborder {
+	border: thin solid #000;border-width: 1px 1px 1px 0px;
+}
+.mediumborder {
+	border: medium solid #000;border-width: 1px 1px 1px 1px;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px; 
+	font-weight:bold;
+}
+.subtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px; 
+	font-weight:bold;
+}
+fieldset {
+	display: block;
+	margin:0;
+	padding:0;
+}
+
+fieldset legend {
+	font-weight: bold;
+	font-size: 13px;
+	padding-right: 10px;
+	color: #999;
+	margin:0;
+	padding:0;
+}
+
+fieldset form {
+	padding-top: 15px;
+	margin:0;
+	padding:0;
+}
+
+fieldset p label {
+	float: left;
+	width: 200px;
+	margin:0;
+	padding:0;
+}
+
+table.grid{
+	border-collapse:collapse;
+	border: thin solid #000;
+}
+table.grid th{
+	padding-top:1mm;
+	padding-bottom:1mm;
+}
+table.grid th{
+	background: #F0F0F0;
+	border-top: 0.3mm solid #000;
+	border-bottom: 0.2mm solid #000;
+	text-align:center;
+	padding-left:0.2cm;
+}
+table.grid tr td{
+	padding-top:0.5mm;
+	padding-bottom:0.5mm;
+	padding-left:2mm;
+	border-bottom:0.2mm solid #000;
+}
+.nomargin {
+	margin-bottom: 0; 
+	padding-bottom: 0;
+}
+hr {
+	color:#000;
+	height: 0.1px;
+	width: 100%;
+}
